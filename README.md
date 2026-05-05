@@ -1,4 +1,3 @@
-# szakma
 # EV Cars Enterprise Network Infrastructure Project
 
 > Szakmai vizsgaprojekt – Informatikai rendszer- és alkalmazás-üzemeltető technikus  
